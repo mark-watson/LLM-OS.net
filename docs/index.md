@@ -9,6 +9,9 @@ My initial inspiration from this project comes from Andrej Karpathy's video on Y
 {width:40%}
 ![Karpathy's LLM OS Overview](images/karpathy.png)
 
+
+<img src="https://github.com/mark-watson/LLM-OS.net/docs/images/karpathy.png" width="300">
+
 ## Ideas
 
 **LLMs may be able to engage in both System 1 and System 2 cognitive processes**.
