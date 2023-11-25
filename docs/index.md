@@ -6,12 +6,8 @@ This web site contains isdeas and code by Mark Watson (and hopefully more contri
 
 My initial inspiration from this project comes from Andrej Karpathy's video on YouTube [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) and specifically his overview diagram for a LLM OS:
 
-{width:40%}
 ![Karpathy's LLM OS Overview](images/karpathy.png)
 
-test 1 2 3
-
-<img src="https://github.com/mark-watson/LLM-OS.net/blob/c5b6741748134b9ac85a98f084810d3ba07fdf7c/docs/images/karpathy.png" width="100">
 
 ## Ideas
 
