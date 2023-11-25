@@ -10,7 +10,7 @@ My initial inspiration from this project comes from Andrej Karpathy's video on Y
 ![Karpathy's LLM OS Overview](images/karpathy.png)
 
 
-<img src="https://github.com/mark-watson/LLM-OS.net/docs/images/karpathy.png" width="300">
+<img src="https://github.com/mark-watson/LLM-OS.net/blob/c5b6741748134b9ac85a98f084810d3ba07fdf7c/docs/images/karpathy.png" width="300">
 
 ## Ideas
 
