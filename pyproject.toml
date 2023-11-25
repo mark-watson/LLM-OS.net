@@ -19,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/mark-watson/LLM-OS"
-"Bug Tracker" = "https://github.com/mark-watson/LLM-OS/issues"
+"Homepage" = "https://github.com/mark-watson/LLM-OS.net"
+"Bug Tracker" = "https://github.com/mark-watson/LLM-OS.net/issues"
