@@ -21,3 +21,6 @@ My initial inspiration from this project comes from Andrej Karpathy's video on Y
 
 ## Software Development
 
+I am doing preliminary development in a private GitHub repository. When I have
+code that is worth sharing it will be moved to the subdirectory **LLMos** of the
+GitHub repository [https://github.com/mark-watson/LLM-OS.net](https://github.com/mark-watson/LLM-OS.net)
